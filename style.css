@@ -108,11 +108,11 @@ color: rgb(231, 231, 231);
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem; /* Adjust size as needed */
+    font-size: 3rem; /
     width: 100px;
     height: 100px;
     margin: 0 auto 20px auto;
-    color: #008F63;
+    color: #008F63
 }
 .form-floating label{
     color: white !important; 
