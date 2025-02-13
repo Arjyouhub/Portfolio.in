@@ -104,6 +104,16 @@ color: rgb(231, 231, 231);
     background-color:#32465a;
   
 }
+.service-item i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem; /* Adjust size as needed */
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 20px auto;
+    color: #008F63;
+}
 .form-floating label{
     color: white !important; 
 }
